@@ -46,19 +46,19 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://tenor.com/pt-BR/view/sonic-sonic-advance-sonic-the-hedgehog-thumbs-up-gameboy-advance-gif-4914411228979998808"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noctxzp.Noctxzp&"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noctxzp/Noctxzp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noctxzp/Noctxzp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Noctxzp/Noctxzp/output/pacman-contribution-graph.svg">
-</picture>
+<img align="right" height="228" src="https://tenor.com/pt-BR/view/sonic-dance-gif-10493825232878232093"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/Noctxzp/Noctxzp/output/snake.svg" alt="Snake animation" />
 
 ###
 
